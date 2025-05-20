@@ -1,4 +1,4 @@
-![library_erd](https://github.com/user-attachments/assets/f673fb7b-c93b-4e4d-b02f-95d4cdd11f14)# Library Management System using SQL Project --P2
+
 
 ## Project Overview
 
